@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eyockman
-- 👀 I’m interested in evolutionary biology
-- 🌱 I’m currently learning about modeling host-pathogen interactions
+- 👀 I’m interested in environmental biology
+- 🌱 I’m currently learning about microbial ecology
 - 💞️ I’m looking to collaborate on R and GIS projects
 - 📫 How to reach me: email me at eyockman@umd.edu
 
